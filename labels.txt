@@ -1,0 +1,4 @@
+paint-bucket
+cardboard-box
+cat
+plastic-crate

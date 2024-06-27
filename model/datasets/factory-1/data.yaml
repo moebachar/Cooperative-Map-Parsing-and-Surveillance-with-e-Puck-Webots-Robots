@@ -1,0 +1,15 @@
+names:
+- cardboard-box
+- cat
+- paint-bucket
+- plastic-crate
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: factory-dex47
+  url: https://universe.roboflow.com/projet-metiers/factory-dex47/dataset/1
+  version: 1
+  workspace: projet-metiers
+test: test/images
+train: train/images
+val: valid/images
